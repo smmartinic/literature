@@ -1,0 +1,595 @@
+Social Media + SocietyVolume 11, Issue 1, January 2025
+
+© The Author(s) 2025
+
+, Article Reuse Guidelines
+
+https://doi.org/10.1177/20563051251317779
+
+
+
+
+
+Article
+
+
+
+
+
+More-Than-Human, More-Than-Digital: Postdigital Intimacies as a Theoretical Framework
+
+
+
+
+
+Adrienne Evanshttps://orcid.org/0000-0002-3813-93291 and Jessica Ringrosehttps://orcid.org/0000-0002-5647-290X2
+
+
+
+
+
+Abstract
+
+
+In this article, we extend the concept of “postdigital intimacies” by developing its more-than-human and more-than-digital capacities. We argue that while we have witnessed a gradual flattening out of the digital and non-digital, our institutions, regulations, laws, ethics, and policies still make distinctions between digital experiences and “real life.” This demands a refinement of critical understandings of intimacy. We locate postdigital intimacies in accounts that situate intimacy as ambivalent, and draw on posthuman and new feminist materialism to argue for the interdependencies between human and non-human agencies, making intimacy something always more-than-human. In turn, we develop accounts of the postdigital that suggest a more-than-digital by highlighting experiences of an entangled digital and non-digital, and the practical implications of this for how we advocate approaching health, safety, well-being, and anti-harassment. We bring these two bodies of work together through two distinct examples: one of the intimate therapeutics of AI chatbots and the other in how young people navigate technology-facilitated sexual violence in schools. We argue that a theory of postdigital intimacies demonstrates the importance of thinking through the more-than-human and more-than-digital of intimacy in relation to regulation, policy, and research pertaining to harms, risk, and vulnerability.
+
+
+Keywords
+
+postdigital intimacies, more-than-human, more-than-digital, sexual violence, therapeutic cultures
+
+
+
+
+
+* * *
+
+
+
+1Coventry University, UK
+
+2University College London, UK
+
+
+
+Corresponding author(s):
+
+Adrienne Evans, Centre for Postdigital Cultures, Coventry University, Coventry, CV1 5FB, UK. Email: adrienne.evans@coventry.ac.uk
+
+
+
+
+
+Introduction
+
+
+We want to start this article with two seemingly divergent examples. In 2021, Meta (formally Facebook) released their version of the “Metaverse,” where people put on headsets to take part in a virtual reality (VR) version of social media. In the years following, the Metaverse has regularly been identified as a deeply problematic space where sexism and racism has flourished.1 Numerous accounts have documented sexual harassment and rape. For example, in research conducted by SumOfUs/Ekō (2022), published as Metaverse: Another Cesspool of Toxic Content, several researchers reported being groped without consent and one was told another user had recorded her voice to “jerk off to.” One researcher was invited into a private room where she was virtually raped while other user-avatars watched through the window as they passed around a virtual drink; an experience the researcher described as “disorienting and confusing” (p. 5).2 In a BBC (2022) interview, the groups’ campaigns director stated, “[i]t still counts, it still has a real impact on users,” and described the trauma experienced by their researchers. Meanwhile, the Channel4 Dispatches program Inside the Metaverse: Are You Safe? detailed the experiences of journalist Yinka Bokinni, who recounted racism and sexism in Meta’s VR. Bokinni (2022) argues, I know it’s not real. I get that—I can’t actually feel them touching me. But those people are there in their houses, physically acting out that sexual assault—using their hands to grab at you or push you against a wall.
+
+
+
+
+
+Our second example comes from the post-Covid institutional and organizational restructures and resets as people went back to compulsory school and work. Following lockdowns, most people had to resume their “in-person” activities. There were efforts to have people “back-in-the-office,” which were often economically driven rather than socially driven, and demonstrated a continued cultural predilection for what is understood as the “real” physical presence of bodies, rather than those seen as mediated through screens, keyboards, notifications, or platforms. Similarly, there was a period when young people had to go back into school after pandemic lockdowns and negotiate a different set of scripts and interactions after a period of intensified screen time. We wouldn’t want to make the claim that seeing people in person is not experientially and qualitatively different from various interactions with them on screen, or equally that the loneliness and isolation of lockdowns could be remedied completely by online interaction. However, what this emphasis on the “in-person” misses are the multiple ways that “in-person” moment is shaped in and through the digital, for example, in emails, calendar invites, mobile devices, social media notifications, and more. The post-Covid relationality underscores the postdigital in significant ways. Returning to school, young people had to re-navigate their relationships from WhatsApp and Snapchat to the face-to-face material peer group. Moreover, technology was morally marked as economically useful (e.g., e-learning computers) versus addictive distractions (e.g., social media, particularly platforms like TikTok), hence the call for banning mobile phones in schools for youth to focus on “real” learning—an argument that is a reductive in every regard, including what is deemed pedagogical, and which as we’ll discuss further on and in the conclusion to this article, should be addressed in policy and practice responses to the postdigital context.
+
+The two examples above are very different. However, we bring them together here as they both speak to forms of intimacy, where intimacy can be unwanted, non-consensual, and violent, as well as mundane and quotidian. In these human-technology assemblages, notions of intimacy as warm, caring, or even reciprocal, are replaced with ones that are more about relationalities with ourselves, others, and our interactions with a collapsed digital-non-digital. Furthermore, for many, the affective intensities of what happens in and through the digital are not separate from the institutions and infrastructures of any other sphere, but are becoming more horizontal. While this amalgamation is not new (although is, perhaps, intensified), our laws, policies, institutions, regulatory frameworks, and social structures continue on the basis that these spheres are distinct. For example, in the United Kingdom, discussion of the Online Safety Bill was shaped by “online” harms—even while what came to count as a harm was shaped by the material bodies. The equivalence between the “real” and the digital was recognized, for instance, in campaigns by the feminist dating app Bumble, whose advocacy of tighter regulations around cyberflashing included the hashtag #cyberflashingisflashing. However, since the government was focused on what was happening online, the Online Safety Act has become legislature that principally looks to removing “harmful” content from the internet, with a particular focus on social media. It does not account for the wider intimate infrastructure of devices and technologies (Paasonen et al., 2023; Wilson, 2016), nor does it see a relationship between patterns of behavior on and offline, and the connection of these actions, feelings, and beliefs to wider structures of inequality (Balfour et al., 2023).
+
+Our aim is to contribute to this landscape by bringing together discussions of the “postdigital” with notions of intimacy that have been coalescing around terms such as “digital intimacies,” “virtual intimacies,” and “mediated intimacies” (e.g., Andreassen et al., 2018; Attwood et al., 2017; Dobson et al., 2018; McGlotten, 2013). This concept has developed through our co-founding and co-leading a research network Postdigital Intimacies and the Networked Public-Private (AHRC AH/T012226/1). In this article, we extend this thinking, starting with Berlant’s discussion of intimacy, and then asking what intimacy could be from a new feminist materialist and posthumanist perspective. We then draw on literature that has discussed the blurring of digital and non-digital, with a focus on the “postdigital,” to explore how we understand contemporary society’s digitality. In the second half of this article, we apply our theoretical account in two separate examples, demonstrating how wide reaching such an account could be to reframing discussions that reinstate a digital dualism. In the first example, postdigital intimacy helps us make sense of the affective intensities of AI chatbot therapy apps, as an extension of a therapeutic public-private that draws attention to the social, psychic, and non-human entanglements of mental health, self-esteem, and well-being. Next, we explore how technology facilitates sexual violence in the teen peer group in institutionalized school contexts, meaning the education sector needs to carefully consider the entanglement of the digital and non-digital realms for young people to support them staying safe. We conclude with a brief discussion, exploring the practical implications and future research directions.
+
+
+More-Than-Human Intimacies
+
+
+Accounts of intimacies, especially from the perspectives of feminist, queer, postcolonial, and critical race theory, have sought to challenge how intimacy is commonly, normative understood. They question the perception of intimacy as a familiar, physical quality facilitated by proximity and duration. Conventional intimacy is one that occurs when people are physically close to one another, and, the longer they are physically close, the deeper their intimacy—with such intimacy being coupled with feelings of reciprocal warmth, care, and kindness. Also challenged by these approaches to intimacy is the notion that intimacy takes place in the sphere of the private, and often an emotional bond experienced as part of the (hetero)sexual couple, the family unit, or in the closest, and often implicitly feminized, friendships. Of the latter, intimacy in friendship is often framed as supporting and buffering heteronormativity (Winch, 2013).
+
+In contrast, critical theory has often highlighted the breaks and fissures, alternative and pluralistic histories and configurations, with complicated accounts of intimacy’s pain, failure, violence, and repair, as well as the messy publicness of sex as intimacy (see, for example, Berlant & Warner, 1998; Carby, 2019; Oswin & Olund, 2010; Povinelli, 2006). Lauren Berlant (1998), for example, has explored intimacy as being a promise and attachment to what is considered a “good life,” shaped by “normative practices, fantasies, institutions and ideologies that organize people’s worlds” (p. 282). For Berlant (2008), this is an intimacy “where challenging and banal conditions of life take place in proximity to the attentions of power but also squarely in the radar of a recognition that can be provided by other humans” (p. 10). Thus, the intimate is the space of tension, shaping subjectivity through public norms and institutions that determine everyday fantasies, desires and recognition, and which provide a sense of belonging, but also marginalize those who fall outside of conventionality. From this account, it is not other bodies and our relationships with them that determine the intimate, but power. Rather than wrapped in the private—often domestic—sphere, intimacy is shaped by its publicness, defined and normalized by public institutions and policed by a public normative idea of what constitutes intimacy’s accomplishment (see also McGlotten, 2013).
+
+This concept of intimacy is taken up by Dobson et al. (2018) who, along with others, have drawn on Berlant to make sense of intimacy in a digital context. For Dobson et al. (2018), the digital intimate public is shaped by ambivalence. Social media engages with likes, shares, clicks, and other “habits” (Chun, 2017), as well as algorithms and networks, and in doing so structures forms of capital, excluding and regulating what intimacy can be through the intersections of class, race, sexuality, and gender. For example, they note the moralisation of intimacy through ideas of excess, where working class, queer, Black and Brown bodies, for instance, are castigated as problematic, pathological, or deviant for sharing (or “oversharing”) intimate life on social media (Dobson et al., 2018; see also Kennedy, 2018). Yet, for Dobson et al. (2018), social media also facilitates new intimate imaginaries, forms of connection and solidarity, and “less bounded forms of intimate care and pleasure” (p. 7), as intimacies increasingly become mobile across space and time (Hjorth & Lim, 2012). A similar point is made by Andreassen et al. (2018) when they argue that digital, or “mediated,” intimacies are shaped by an increasing normalization of online platforms in engaging in forms of intimacy, changing the way intimacies are enabled or performed (p. 14). As we provide our account of postdigital intimacies below, this is the body of work that we would situate ourselves in.
+
+Our interjection, however, is to engage with this queering and critique of intimacy by further adding the relationalities and entanglements of the human and non-human, creating more-than-human intimacies. Indeed, as suggested above, Berlant’s (2008) intimacy is in part about the “recognition that can be provided by other humans” (p. 10, emphasis added). While we agree that humans are part of this dynamic, in digital culture, such recognition also comes from the affordances, platforms, infrastructures, and devices that shape and are in dialogue with human subjectivity (Paasonen et al., 2023; Wilson, 2016).
+
+The study of intimacy in digital culture is therefore also one that “connects, reaches out and is entangled across a range of events, people, objects, feelings, data, algorithms and technologies” (Evans & Riley, 2023, p. 146). Moving intimacy away from its anthropocentric conventions, a feminist new materialist and posthuman approach to intimacy ask us to recognize other non-human elements as part of the intimate landscape of “more-than-human worlds” and posthuman intimacies (Braidotti, 2019; Lupton, 2019; Pienaar et al., 2021). Agency is key in this perspective, where agency is dispersed within assemblages—where things “intra-act”3 in a complex network and intricately come to shape one another. Thus, neither agency nor intimacy is located in a body or a person, but is constantly “becoming”; for instance, Barad (2014) uses the example of the mountain range and the churning of soil as examples of non-human agency, constant becoming, and vibrancy. In digital culture, we could use the example of the algorithm as generating its own intimate relations as it intra-acts with platforms, images, texts, humans, and other algorithms. Parisi (2013) contends that the decision-making and thought of adaptive algorithmic architectures don’t, by definition, “exist in direct relation to human thinking” (p. xviii). Rather, they entail the automatic processing of “infinite volumes of data . . . which refuse to be fully comprehended, compressed, or sensed by totalities” (p. ix-x). Such an onto-epistemology allows us to challenge the focus on “the human” and calls on us to pay attention to the vibrancy of the non-human actors that we engage with (Bennett, 2010). These dynamics are creating new forms of posthuman rationality that are not contained by human agency and demand that we radically rethink how these may be shaping human experience. Furthermore, a significant part of both Berlant’s account of intimacy and new feminist materialist thought is the centrality of affect, and how this too is shapes becomings, as things affect and are affected by more-than-human intimacies (Kolehmainen et al., 2022). For example, while adaptive algorithmic architectures don’t exist in relation to human thinking, they are still affected by it. Therefore, the intimacies in postdigital intimacies is interested in how subjectivities are shaped by particular intimacies and relationalities between humans and non-human actors, which can include smartphones, apps, and other machines, while also attending to the power of intimacy as both a regulatory force and radical potential. However, what is added to this account of intimacy by the prefix of “post” is the folding of and amalgamation of digital and non-digital within our notion of the intimate.
+
+
+More-Than-Digital Technologies
+
+
+Scholarship in the digital humanities, science and technology studies, and digital culture more generally have long recognized the relationship between the online and the offline. Jurgenson (2012), for example, has offered the notion of a reality augmented by digital technologies in the context of protest movements, and a critique of the digital dualism of assuming these as separate spheres of existence, such as in discussion of a “digital revolution” used to describe social movements and their material consequences in the early 2010s. As exemplified by our discussion of the UK’s Online Safety Act, these digital dualisms exist and are reproduced today in policy, laws, and regulation, shaping how we can approach online harms that are structured through inequity. The terms “ubiquitous computing” and “pervasive computing” also recognize the embeddedness of digital culture, for example, in Greenfield’s (2006) notion of “everyware” that describes a meshwork of digital technology, much of which is computer-less, which requires “a fundamental alteration in worldview, and maybe even a new state of being” (p. 16). Meanwhile, empirical research on digital culture and technologies often very concretely demonstrates the interaction of devices within (human) social relationships or discourse (e.g., Bolander & Locher, 2020; Pink et al., 2016). Citing health research on eye strain and carpel tunnel, for example, Taffel (2016) contends that there “have never been immaterial encounters that fail to affect human bodies” (p. 329).
+
+Like these approaches, the term “postdigital” draws attention to the context collapse (Davis & Jurgenson, 2014) of the digital and non-digital and is currently employed in disciplines such as art theory, geography, cultural studies, and across the humanities and social sciences (e.g., Adams & Jansson, 2022; Berry & Dieter, 2015; Murray, 2020; Hall, 2014). In education in particular, postdigitality or postdigital theory has received much attention and critical discussion, including the book series and journal Postdigital Science and Education, constituting a possible “postdigital turn” (Jandrić et al., 2018; Jandrić & Knox, 2022). Cramer’s (2014)4 article “What is post-digital?” gives an account of a postdigital aesthetics. In it, he questions the distinction between “digital” and “analogue” in our frameworks for understanding technology. For example, a typewriter is postdigital if we understand it as making use of “digits”—if we take it to mean discrete digits (whether binary code of ones and zeros or fingers on a hand). Even if the typewriter is understood colloquially as analogue, it is also a hybrid technology since it needs fingers to perform its functions.
+
+Cramer’s (2014) account is helpful, especially in challenging the binary of digital and analogue media, while showing the hybridity of much of what we categorize as “new” and “old.” However, ongoing discussions of the postdigital have developed the concept, bringing the focus away from the technology and more toward the human-technology assemblage and the implications of the postdigital for human subjectivity. These developments reflect the increasing normalization of postdigital technologies in social lives, and the extensions of ways of understanding the postdigital afforded by disciplinary lenses. For example, Murray (2020) argues for a postdigital cultural studies, by drawing on its history of asking how our attention is directed. For Murray, a postdigital cultural studies is therefore shaped by paying attention to the way our attention is steered by digitalities. Murray (2020) identifies deepfakes, algorithms, and the digital afterlife industry as shaping new attention economies. In this account of the postdigital, “the post gestures toward the digital’s inescapable consequences on culture, economics, and the environment. . . drawing critical attention to contemporary mediation as a vital entanglement” (p. 488). In relation to algorithms, Murray (2020) argues that they constitute an intimacy, for example, when Netflix’s algorithmic mechanisms might know where our attentions should be directed, often to the extent that they seem to know us better than we know ourselves (Kendall, 2021). The same could be said for TikTok, whose user recommender algorithmic feed creates an “algorythmized self” that directs our attention to an intimately tailored set of preferences, feeding the user what the app knows the user wants through human input (Bhandari & Bimo, 2022).
+
+Murray’s (2020) main argument is to apply a new disciplinary lens that would require a paradigm shift in cultural studies, but for our purposes her account also moves beyond hybridity to acknowledge the deeply entangled subjectivities of the postdigital. Meanwhile, Albrecht et al. (2018) draw on the concept of the postdigital to challenge accounts of the far-right as simply using digital platforms as communication tools that shape offline worlds. Albrecht et al. (2018) apply the notion of the postdigital to describe how our “connectivity makes the online and offline responsive to one another,” while the expansion of such connectivity makes online and offline worlds “increasingly inter-dependent” (p. 10). Therefore, like our account of the experiences of sexual and racial harassment that we used to introduce this article, the postdigital is engaged in the collapse of the online and offline (Jurgenson, 2012)—and we would add, the digital and the non-digital—making these spheres no longer distinct. While Hurley (2021), drawing on Berlant, argues that a postdigital framework is “concerned with social justice issues of hyper-technological ontologies or ways of being while debunking platform capitalism’s cruel optimism” (p. 1). Defining social media as a “postdigital artifact,” Hurley (2021) makes use of a postdigital feminism to look at Arab women’s use of Instagram related to multiple forms of self-representation and to problematise notions of empowerment. Through the postdigital, these empowerments are interwoven with the platform affordances to create context-specific analysis that accounts for the “material, routine-symbolic, conceptual, affective, and imaginative dimensions of social media practices” (Hurley, 2021, p. 12).
+
+As Albrecht et al. (2018) and Hurley’s (2021) accounts make clear, the postdigital is also political. In Albrecht et al. (2018), their account stresses the ways the digital is not simply “used by” the far-right as an on and offline means of communicating with other humans, but as an intricate part of its fabric and feeling. This means that the postdigital has a particular sociality, one that, for us as scholars of intimacy invested in feminist theory and practice, has particular gendered implications. That is, the more-than-digital interacts with gendered power relations, as well as those intersections defined by race, class, and sexuality.
+
+Moving the postdigital into dialogue with digital intimacies research, we take the “post” of postdigital intimacies as linking us back to the critical work we highlighted above. While the “post” in postdigital could be seen as indicating a time “after” the digital, we draw on it to indicate an alignment with other critical bodies of work (posthumanism, postcolonialism, poststructuralism), and because the “post” indicates a destabalization of digital and non-digital, and other dualistic thought (Braidotti, 2013; Hurley, 2021; Sinclair & Hayes, 2019). Aligning to the posthumanist position of the more-than-human, the postdigital is always more-than-digital (Gourlay, 2023), with intimacies both within digital relations and in excess of them. We would contend that an account of the postdigital is important in a post-Covid context, one that arguably deepened, intensified, and normalized a blurring of biological, political, social, intimate, and digital realms, often in very specific ways (e.g., the combination of saliva, temperature, and bio-metrics, the assumptions of population management through apps), but also as a framework with which to understand human-technology assemblages more broadly (Evans et al. forthcoming).
+
+Furthermore, postdigital intimacies are not simply intimacies “augmented” by the digital. As Hodgson (2019) puts it, “what emerges is not simply a digital/real mixed reality but altogether different modes of embodiment” (p. 69). For us, the postdigital means recognizing the slippage and indistinguishability of the digital and non-digital, one that is institutional, infrastructural, embodied, and subjective. For instance, the postdigital shapes: education, health, economics, and government; the wires and cables that enable it, as well as affordances of technological devices and platforms; and, the gestures and tactility of users, both human and non-humans. The postdigital delineates a context where the digital is invisible and naturalized in how we think, act, feel, and engage, even as we (in intra-action) come to shape it.
+
+Thus, where Murray (2020) calls for a postdigital cultural studies as attending to the question of attention, we bring the postdigital into dialogue with scholarship on intimacies where it attends to the power of intimacy as both a regulatory force and radical potential. In arguing for attention to the power dynamics and the potential for marginalization and exploitation, digital intimacies research has shown the opportunities to rewrite cis-heteronormative and patriarchal ideologies and engage in “a politics of queer and intimate world-building” enabled via the virtual (Andreassen et al., 2018; Dobson et al., 2018, p. 21). Our account of postdigital intimacies builds on these ways of understanding by identifying an intensification, one that, through a new feminist materialist lens, is more an intra-action with the more-than-digital. The digital has a bearing on material, “real life” intimacies, but also, we argue, there is a seamlessness between what happens online, on screens, and through the ephemerality of digital devices, algorithms, and AI technologies, with all those practices that might otherwise be described as “real life,” and the affectivity of both.
+
+
+Postdigital Intimacies in Context
+
+
+Above, we have attempted to bring into dialogue two bodies of work in relation to intimacies and the postdigital, to contribute to theoretical discussions of intimacy in relation to the public norms and institutions that determine everyday fantasies, desires, and recognition. In what follows, we demonstrate the value of this theoretical perspective by outlining its implications in two spaces: one in the space of intimate therapeutics and the other in the postdigital infrastructure of sexual violence in schools. In the interests of creative scholarship, this article is not attempting to outline the empirical insights we have each gleaned from engaging in these spaces, and the contexts, methods, and analyses are presented elsewhere (see Evans, 2025; Evans & Riley, 2023; Ringrose et al., 2024; Setty et al., 2024). We bring these examples together, following on from the “caring cuts” of others (Mörtsell & Gunnarsson, 2023; Puig de la Bellacasa, 2017), as each example sheds light or offers a “snapshot” on postdigital intimacies and its usefulness in analyzing the consequences when we understand these intimacies as being both more-than-human and more-than-digital. Our hope is that these examples work not only to illustrate the concept, but to make it adaptable to other contexts.
+
+
+
+
+
+Example 1: Intimate Therapeutics
+
+
+As indicated above, the affective elements of a postdigital intimacy are central to the workings of more-than-human and more-than-digital entanglements. In this section, we want to explore the affective elements of postdigital intimacies through the lens of intimate therapeutics that have remained noticeably absent from regulatory frameworks and are framed by understandings of a distinct “digital” and “non-digital” (i.e., in terms of presenting the “benefits” of digital therapy vis-à-vis digital accessibility), and yet work to complicate these spheres by way of seeking to intra-act on and with our emotional worlds. We pay attention here to digital therapy in AI chatbots, particularly Wysa and Elomia.
+
+An important part of postdigital intimacies is recognizing the wider material conditions in which they operate. The boom in digital therapy emerges from a consolidation of societal and psychic contexts, shaped by the endless scroll of wars, economic hardship, and catastrophic events. These material conditions are defined by anxiety and crisis, evident for example in the Covid-19 pandemic, in which—according to the UK charity Mind (2021)—a third of people reported declining mental health. This crisis interacted with another: the server lack of funding of mental health services in the United Kingdom and elsewhere. Digital therapy steps into such crisis with the promise that digital technologies make the therapeutic more democratic and widely accessible than therapy “in-real-life,” something it was able to harness in a state of almost-global lockdown. One example is Better Help, one of the largest apps on the market, which works by matching users to licensed therapists. Better Help presents itself in direct contrast to “traditional in-office therapy,” with benefits including “messaging at any time” and “access therapy from anywhere.” This is even while, through the lens of the postdigital, these realms of experience might not be nearly as distinct. Like our earlier discussion of “in person” meetings, therapy has constantly overlapping boundaries that cross between the digital and non-digital (Kolehmainen, 2024). Meanwhile in/accessibility is more often shaped by financial concerns both on and offline, including infrastructural access to Wi-Fi, transport, or the cost of apps and smart phones, as well as immaterial inequities in access (e.g., time).
+
+Concurrently, and already introduced earlier in this article, many countries during the same Covid-19 period and beyond were legislating to introduce regulation around online “harms” and “safety.” One significant area of visibility has concerned the harms of social media for young women, including concerns around self-esteem, body image anxiety, confidence, and well-being. Social media is positioned as the harbinger of emotional unease, so that young women are positioned as emotionally damaged by their use of digital technology. And yet, in a postdigital response, digital therapy has become the solution to higher numbers of people reporting emotional distress, redirecting the need for support back to the same devices (and, occasionally, the same platforms) that are reportedly causing suffering. Indeed, in policy, health services are seeking to embed such technology further in mental health provision (De Vos, 2021).
+
+Like our arguments above, the human-technology assemblages encapsulated by digital therapy happen in “intra-actions between individuals, public audiences, technologies, images [that] all contribute to the materiality of intense affects that are commonly figured as explorations of ‘personal’ distress” (Fullagar et al., 2017, p. 8). These fears and anxieties have followed Albrecht et al.’s (2018) analysis of far-right digital cultures. That is, the therapeutic has adopted digital culture as more than just a tool for communicating information, but instead as part of its very infrastructure—as a structure of feeling shaping experiences, affects, and subjectivities, in a way that creates inter-dependence between the digital and the non-digital, and an imperceptible naturalization of this inter-dependence in everyday life.
+
+For us, the more-than-digital therapeutic can be understood as intimate in that they constitute an institutional sense of what it means to achieve mental well-being. They are both an intimate relationship one has with oneself and a psychologization of that intimacy. In Berlant’s terms, such intimacy is a “cruel optimism” since such mental well-being is consistently out of reach, or impossible. This is apparent in the cyclical never-ending-ness of the need to therapeutically work on the self and “know the self” better (or become more intimate with ones’ self) (Illouz, 2008), and the unquestionable evidence of a larger public emotional crisis demonstrating that such self-knowledge does not expunge mental distress.
+
+Of particular interest here, through the framework of postdigital intimacies, are apps that make use of AI, allowing people to share intimate details of how they feel in therapeutic dialogue with the machine. The AI therapy app Wysa, for example, is presented as not only an artificially intelligent app, but one that is “emotionally intelligent”5 too. The app affordances allow the user to intra-act with Wysa, a virtual chatbot who appears as a cartoon blue penguin. In Wysa, the therapeutic is animal-human-machine and uses the cartooned image of the animal as the emotional companion and intimate confidant of the user through AI-generated, self-help-inspired text-like speak.
+
+At the launch, the app asks the user to breathe deeply and reminds them that “You are loved.” The user is then presented with their own “space”: including self-care exercises that reach into the digital excesses of sleep, energy, self-esteem, anxiety, and confidence; reminders to the material human to take medicines; and the ability to connect to a human therapist (for £144.99 quarterly). The main function of the app, however, is the chatbot, who is presented as “My 4 am friend,” and who asks, “How are you feeling?.” The chat function is recognizably part of a postdigital messenger-style aesthetics. Wysa appears as a small circle on the left side of the screen, and the user on the right, with text appearing top-to-bottom of the mobile phone screen. Throughout the conversation, a normalized and recognizably messenger-style chat takes place, with pre-defined emoji vernaculars (e.g., waving hands, smiley faces, sunflowers), and gifs and memes from Wysa that, for example, offer “virtual” hugs.
+
+Each conversation with Wysa begins with the user indicating how they are feeling by moving the smile on an emoji up or down—that is, emotional feeling is indicated by physically feeling the interface—after which Wysa asks more questions to guide the user to a particular activity. The text speak from the human user becomes increasingly generated by the non-human AI as the app guides the user through activities, such as setting SMART objectivates to generate emotional goals (and thus also extending emotional life-worlds into workplace terminology). For example, Wysa will ask “Do you want help with staying energized right now?,” to which the user is given the option to reply “Yes,” “Not sure,” and “No, not now,” so that user responses and machine responses become interwoven.
+
+Wysa works similarly to other AI therapy apps and chat bots. Elomia is another example of these affordances. Elomia is presented to us as a White, slim, blonde, young, professional looking woman with whom the user also talks through their emotions. At the first launch of this app, the user is introduced to Elomia, before being presented with a long list of possible areas of their life that might need improving, after which Elmoia is “tuned” through AI to the users’ own “personality.” Thus, the app presents its chatbot as offering personalized advice and care, specific to each individual. Through the nudge affordances of the app, Elomia also sends the user daily “text messages,” following in the style of affirmations and manifestation—a style that is increasingly visible on social media platforms like TikTok (Green, 2024). These include, “Good morning! Your dreams can come true if you have the courage to pursue them . . .,” and “I just wanted you to know that I believe in you, and I know that you can do anything you set your mind to!.” The app also encourages participation in Elomia’s own personal growth, with thumbs up or thumbs down allowing the user to “improve my artificial intelligence.”
+
+These entanglements with AI therapy apps demonstrate the indistinguishability of intimate therapeutics and more-than-digital worlds. As one review of Wysa on the Apple App Store states, “it feels like somebody is cheering for me, for real” (22 December 2021). Thinking at the level of their societal importance, as Stark (2020) has noted, such therapeutic technologies “underpin many contemporary digitally mediated sociotechnical controversies, ranging from media manipulation by extremist actors, negative polarization, and ‘fake news’, to collective action problems around pressing global crises such as climate change” (p. 2040), such that their existence as companions for our emotional worlds is always in intra-action with wider socio-political conditions.
+
+
+Example 2: School-Based Technology-Facilitated Sexual Violence
+
+
+Our next example adds another layer to our account of postdigital intimacies by exploring some experiential accounts of the more-than-digital in the blurriness of online and at school life for “networked teens” (boyd, 2014; Ringrose & Harvey, 2017). The school-based teen peer group is institutionalized, where young people are in disciplinary, compulsory environments not of their choosing. In these spaces, young people interact daily with others some of whom they may not share views with, or in some cases could be actively bullying or harassing them. Often having no choice but to continue seeing and interacting with this peer group, they are dependent on adult intermediaries to “safeguard” and protect them. Such dynamics may be reproduced, heightened, or mitigated, on digital platforms where people can be added or removed, and where young people may have interactions that are painful, difficult, hostile, or non-consensual with those same people they see “in-person” in school. However, like the discussion of intimate therapeutics above, policies and practices are often arranged as though the digital and the non-digital were separate, or indeed as if the digital could be cleaved off from the sociality of teens to protect them (e.g., phone banning policies). Likewise, the digital not only mediates communication, but structures the very fabric of school life. These issues relating to youth peer cultures are usefully theorized through the lens of the postdigital as a powerful way of analyzing how what happens online intimately shapes offline experiences, and vice-versa, in complex ways.
+
+This example draws from several studies of young people’s experiences of image-based sexual abuse over 5 years, including during the global pandemic (Horeck et al., 2023; Ringrose et al., 2021). Throughout this time, schools have struggle with how to manage digital components of young people’s lives. One of the most challenging aspects for schools is sexual intimacies. Legally, images of under-18s are considered child pornography, a policy distinction that creates safeguarding procedures and abstinence-based approaches that don’t allow for youth sexual agency and (post)digital rights. Schools are often unable to address the very material impacts that non-consensual digital sexual encounters may be having on young people, and they (and wider institutions, for example, the police) lack appropriate modes of response, including understanding recent offenses to protect victims from new crimes such as cyberflashing or upskirting. This has serious implications for understanding the role of the digital, including AI and synthetic content, on youth in relation to gender and sexual risks and harms, and can result in a failure to understand the digital-emotional-material impacts of coercive online-offline interactions for young people.
+
+This research has also shown how platforms facilitate coercive content through their platform-specific features and affordances. For instance, Snapchat as a platform where unwanted digital sexual images circulate and spread rapidly because non-consent is built into the platform, based on snapping others with images that disappear. This platform includes metrics such as Snapchat streaks (tracking how many days you have maintained contact with others) and Snapscores (the number of Snaps you have sent and received), which are displayed on one’s profile, becoming a measure of visibility, but which hold sexual meaning in an attention economy that is heavily gendered and where girls have to manage ongoing sexual double standards, both on and offline. For instance, a girls’ high Snapscore (which shows her interactions on the app) could be attributed to her being “slutty,” a heterosexualised metric that probably wouldn’t have occurred to the app designer. Other features opened young people to harm because girls often want high scores to display popularity. This meant a “Shout out” of each other’s profiles asking for contacts, and accepting unknown contacts, without checking. This then opened them up to a flood of unwanted sexual content, including dick pics and videos of men masturbating, with little capacity to report the images beyond blocking them.
+
+These harassments weapoinize sexual intimacy; including the possibility that images are captured and shared without consent since snaps can be screenshotted, although the app alerts the sender to this. Whereas girls felt they didn’t want to use the screenshot function they reported that girls’ images frequently were screenshotted and shared, because the images garnered value for boys in their peer group. Finally, the app’s geolocational elements also make marginalized youth in high-risk areas vulnerable through identification on the Snapmap (a map on the app which locates users in time/space) that is often on to stay in touch with friends, but makes young people exposed to predators, both peers and un/known adults. In the case of one girl who had been attacked via geolocation on Snapmap by a peer, her phone was taken away through parental instruction from school, with no guidance on the social impacts of this, nor a sustained strategy to help manage risks upon the return of the device.
+
+The final example we want to look at concerns algorithmic selves and the disjuncture between the platformed life-worlds created via the interweaving of apps like WhatsApp, Instagram, and TikTok and in-person identities. This came from a study immediately after pandemic lockdowns in the United Kingdom, when young people had to return into the school walls after long periods of physical isolation from one another (Horeck et al., 2023). Young people reported a loss of control over what they were viewing or being “fed” due to the TikTok algorithm, including included an increase in exposure to content they did not want to see or felt conflicted about (Ringrose et al., 2024). Digital shaming and abuse escalated during Covid-19. For example, while teens reported an increase in LGBTQI+ positivity content, there was also backlash. Young people described a rise of “outing” online, where details shared in what were perceived to be safe spaces were then used by others to expose their sexuality more publicly and to a wider peer group than was assumed on the semi-private spaces being cultivated in WhatsApp or on TikTok.
+
+A particular episode was discussed where a young person made a TikTok coming out video—replicating trends she was seeing in the TikTok recommender algorithm, For You page. The For You page acts as a posthuman interface with the young person, creating a dialogue of content that is based on AI machine learning of perceived likes, cultivating a life-world for the user, and reflecting their likes (Barta & Andalibi, 2021; Schellewald, 2023; Zhao & Wagner, 2023). In the case of the young person’s coming out video, the sense of safety cultivated through the posthuman algorithm-fed reality motivated their own TikTok content creation. What was not anticipated was that this content would be copied and shared across other platforms that intra-act with the school context, including Instagram’s story function and the social media app, Tellonym, which allows users to post content and solicit “tells”—or feedback—from anonymous users, making its more-than-human infrastructure apt for sharing hateful messages without consequence. From this cross-platform sharing, the young person received an overwhelming amount of hate and discrimination from the wider school-based peer group. The norms cultivated in their TikTok algorithmically cultivated life-world jarred violently against the normative cruelties (Ringrose & Renold, 2010) of the school-based peer group.
+
+Taken together these examples highlight the complex entanglement of digital technologies meeting “real life” organizational, institutional cultures—in this case school. We see the interface and more-than-human, more-than-digital “intra-action” between online and offline spaces. Young people are continuously navigating how what happens online may well ricochet back into an in-person peer group, while beyond the school, the known and unknown of the online community may be exceedingly blurry. Young people across our studies had often never encountered any school-based discussion of how Snapchat or many other social media apps work, rather they are given the tedious assemblies on e-safety and cyberbullying that cannot account for a wide range of pressing issues such as AI-facilitated and deepfake abuse. Moreover, the algorithmically generated subjective spaces on their phones and devices may contradict intensely with the power dynamics of the in-person panopticon of school, which is compulsory. We contend that in order to effectively respond to the complex lives of young people, the concept of postdigital intimacies—that is, a more-than-human and a more-than-digital—is incredibly fruitful. It gives us a language to describe a multi-dimensional platformed and algorithmic realities that could in turn be used to better understand and therefore better support young people as they navigate their subjectivities and relationships on screens, at home, and at school.
+
+
+
+Conclusion
+
+
+In this article, we have introduced a theoretical account of postdigital intimacies. We have suggested that this framework is needed in a context where the digital and the non-digital are often understood as separate realms of experience, and as a consequence have their own distinct laws, policies, regulations, and ethics. We have argued that in contemporary society, this distinction no longer holds. Our digital sociality is one where the digital and the non-digital are often intertangled, indistinct, or intra-acting, reaching into and out of one another in complex ways, requiring a new theoretical intervention.
+
+We have thus proposed a theory of postdigital intimacies which, for us, includes both the more-than-human and more-than-digital. We began by outlining intimacies as shaped by the intersections of gender, race, class, and sexuality, and as containing critical capacity, while also being limited by an orientation toward normativity and conventionality, shaped by a public that defines what counts as intimate. To this, we introduced the entanglement of the human and non-human as vital to this concept of intimacy, since through the postdigital, the human and the non-human are intricately bounded in what Berlant calls “fantasies of belonging.” In our framing of the postdigital, we drew first on this as an aesthetic amalgamation of digital and analogue, before introducing more recent accounts that have argued for the more embedded and horizonal relationships and normative interconnectedness between the digital and non-digital.
+
+We provided two examples. These research engagements are different in focus and methodology. However, taken together, a consideration of how AI, mobile technologies, and platform-specific features of apps is vital in grasping the more-than-digital vitalities and capacities of technological shifts. We have demonstrated the entanglement of the material and subjective effect of the digital interface on well-being, distress, fear, vulnerability, and safety, connecting up the intimate to the institutional, infrastructural, and socio-political. Both examples are also spaces where regulation falls far behind the needs of a postdigital landscape; in intimate therapeutics, regulation is almost non-existent, and in school contexts, even with the introduction of the Online Safety Act in the United Kingdom, is largely inapplicable to the complexity experienced by young people navigating sexual violence through the interface of platform affordances, the physical school institution, and peer-group dynamics. Thus, we would argue, the accounts offered by a theory of postdigital intimacies has wide-reaching implications for how we understand the world, conceptualize our research objects, and engage in social change. Adopting this framework in further research would allow for the complexities of our more-than-human, more-than-digital worlds to be better accounted for, and offers a powerful and provocative concept to begin articulating more equitable futures.
+
+
+
+
+
+Declaration of Conflicting Interests
+
+
+The author(s) declared no potential conflicts of interest with respect to the research, authorship, and/or publication of this article.
+
+
+Funding
+
+
+The author(s) disclosed receipt of the following financial support for the research, authorship, and/or publication of this article: for this work was received from the AHRC for the Postdigital Intimacies and the Networked Public-Private network (AHRC AH/T012226/1).
+
+
+ORCID iDs
+
+
+Adrienne Evans https://orcid.org/0000-0002-3813-9329
+
+Jessica Ringrose https://orcid.org/0000-0002-5647-290X
+
+
+Notes
+
+
+1.
+
+Meta’s CEO Mark Zuckerberg has recently announced an expansion of the Metaverse with both AI technology and more realistic, photographic-quality avatars—even while, in early 2024, UK police began their first investigation of virtual sexual assault within the metaverse.
+
+
+
+2.
+
+Such accounts of “virtual” rape are not new; see, for example, Dibbell’s (1993) Rape in Cyberspace. What is new is the normalization of such technology, as well as its sophistication, for example, the wearables (e.g., hand controllers, haptic vests, body suits) that means the victim-survivor can experience vibrations through their own bodies when touched by another avatar. While what has not changed is a dualism that separates out the relationship between what happens digitally and what can be understood as existing in “real life”—and one that we challenge in this article.
+
+
+
+3.
+
+Barad (2007) uses “intra-action,” instead of “interaction,” to emphasize how entanglements do not begin from a point of completeness (including the “human”), but emerge from other fluid, partial assemblages that are constantly intra-acting.
+
+
+
+4.
+
+Others in computational music had also used the term “post-digital,” now more recognizably identified as “glitch aesthetics.”
+
+
+
+5.
+
+From Apple App Store description—emphasis added.
+
+
+
+
+References
+
+
+Adams P. C., Jansson A. (2022). Postdigital territoriality: Disentangling from digital media as a return to place. Annals of the American Association of Geographers, 113(3), 658–674. Crossref. Web of Science.
+
+
+
+Albrecht S., Fielitz M., Thurston N. (2018). Introduction. In Fielitz M., Thurston N. (Eds.), Post-digital cultures of the far right: Online actions and offline consequences in Europe and the US (pp. 7–22). Transcript Verlag. Crossref.
+
+
+
+Andreassen R., Petersen M. N., Harrison K., Raun T. (Eds.). (2018). Mediated intimacies: Connectivities, relationalities and proximities. Routledge.
+
+
+
+Attwood F., Hakim J., Winch A. (2017). Mediated intimacies: Bodies, technologies and relationships. Journal of Gender Studies, 26(3), 249–253. Crossref. Web of Science.
+
+
+
+Balfour L., Evans A., Maloney M., Merry S. (2023). Postdigital intimacies for online safety. https://issuu.com/postdigitalintimacies/docs/online_safety_bill_report_final
+
+
+
+Barad K. (2007). Meeting the universe halfway: Quantum physics and the entanglement of matter and meaning. Duke University Press. Crossref.
+
+
+
+Barad K. (2014). Diffracting diffraction: Cutting together-apart. Parallax, 20(3), 168–187. Crossref. Web of Science.
+
+
+
+Barta K., Andalibi N. (2021). Constructing authenticity on TikTok: Social norms and social support on the “Fun” platform. Proceedings of the ACM on Human-Computer Interaction, 5(CSCW2), 1–29. Crossref. PubMed.
+
+
+
+BBC. (2022, May 25). Female avatar sexually assaulted in Meta VR platform, campaigners say. https://www.bbc.co.uk/news/technology-61573661
+
+
+
+Bennett J. (2010). Vibrant matter: A political ecology of things. Duke University Press. Crossref.
+
+
+
+Berlant L. (1998). Intimacy: A special issue. Critical Inquiry, 24(2), 281–288. Crossref. Web of Science.
+
+
+
+Berlant L. (2008). The female complaint: The unfinished business of sentimentality in American culture. Duke University Press. Crossref.
+
+
+
+Berlant L., Warner M. (1998). Sex in public. Critical Inquiry, 24(2), 547–566. Crossref. Web of Science.
+
+
+
+Berry D. M., Dieter M. (Eds.). (2015). Postdigital aesthetics: Art, computation and design. Palgrave Macmillan. Crossref.
+
+
+
+Bhandari A., Bimo S. (2022). TikTok and the “algorithmized self”: A new model of online interaction [AoIR Selected Papers of Internet Research]. https://spir.aoir.org/ojs/index.php/spir/article/view/11172
+
+
+
+Bokinni Y. (2022, April 25). A barrage of assault, racism and rape jokes: My nightmare trip into the metaverse. The Guardian. https://www.theguardian.com/tv-and-radio/2022/apr/25/a-barrage-of-assault-racism-and-jokes-my-nightmare-trip-into-the-metaverse
+
+
+
+Bolander B., Locher M. A. (2020). Beyond the online offline distinction: Entry points to digital discourse. Discourse, Context and Media, 35, 100383. Crossref. Web of Science.
+
+
+
+boyd d. (2014). It’s complicated: The social lives of networked teens. Yale University Press.
+
+
+
+Braidotti R. (2013). The posthuman. Polity Press.
+
+
+
+Braidotti R. (2019). A theoretical framework for the critical posthumanities. Theory, Culture & Society, 36(6), 31–61. Crossref. Web of Science.
+
+
+
+Carby H. V. (2019). Imperial intimacies: A tale of two islands. Verso.
+
+
+
+Chun W. H. K. (2017). Updating to remain the same: Habitual new media. MIT Press.
+
+
+
+Cramer F. (2014). What is ‘post-digital’? A Peer-Reviewed Journal About, 3(1), 10–24. Crossref.
+
+
+
+Davis J., Jurgenson N. (2014). Context collapse: Theorizing context collusions and collisions. Information, Communication and Society, 17, 1–10. Crossref. Web of Science.
+
+
+
+De Vos J. (2021). A critique of digital mental health via assessing the psychodigitalisation of the COVID-19 crisis. Psychotherapy and Politics International, 19(1), 1–13. Crossref. Web of Science.
+
+
+
+Dibbell J. (1993). A rape in cyberspace or how an evil clown, a Haitian trickster spirit, two wizards, and a cast of dozens turned a database into a society. http://www.juliandibbell.com/texts/bungle_vv.html
+
+
+
+Dobson A. S., Robards B., Carah N. (Eds.). (2018). Digital intimate publics and social media. Palgrave Macmillan. Crossref.
+
+
+
+Evans A. (2025). “Now, lets add more stuff to your happiness jar”: Cuteness as strange in crisis. In Balfour L., Evans A., Maloney M., Merry S. (Eds.), Strange/r/ness: (Post)digital intimacies in uncanny worlds. Angelaki: Journal of the Theoretical Humanities (forthcoming).
+
+
+
+Evans A., Hakim J., Dobson A., Ringrose J., McGlotten S. (forthcoming). Postdigital Intimacies: Relational lives in the networked public-private. UCL Press.
+
+
+
+Evans A., Riley S. (2023). Digital feeling. Palgrave Macmillan. Crossref.
+
+
+
+Fullagar S., Rich E., Francombe-Webb J., Maturo A. (2017). Digital ecologies of youth mental health: Apps, therapeutic publics and pedagogy as affective arrangements. Social Sciences, 6(4), 135. Crossref.
+
+
+
+Gourlay L. (2023). Postdigital/more-than-digital: Ephemerality, seclusion, and copresence in the University. In Jandrić P., MacKenzie A., Knox J. (Eds.), Postdigital research (pp. 51–68). Springer. Crossref.
+
+
+
+Green J. (2024). TikTok and the changing landscape of therapeutic digital spaces of care. Digital Geography and Society, 6, 100077. Crossref.
+
+
+
+Greenfield A. (2006). Everyware: The dawning age of ubiquitous computing. New Riders.
+
+
+
+Hall G. (2014). Toward a postdigital humanities: Cultural analytics and the computational turn to data-driven scholarship. American Literature, 85, 781–809. Crossref.
+
+
+
+Hjorth L., Lim S. S. (2012). Mobile intimacy in an age of affective mobile media. Feminist Media Studies, 12(4), 477–484. Crossref. Web of Science.
+
+
+
+Hodgson J. (2019). Post-digital rhetoric and the new aesthetic. Ohio State University Press.
+
+
+
+Horeck T., Ringrose J., Milne B., Mendes K. (2023). Young people’s experiences of technology-facilitated gender-based violence during COVID-19: Final report. Anglia Ruskin University.
+
+
+
+Hurley Z. (2021). #reimagining Arab women’s social media empowerment and the postdigital condition. Social Media + Society, 7(2). Crossref. PubMed. Web of Science.
+
+
+
+Illouz E. (2008). Saving the modern soul: Therapy, emotions, and the culture of self-help. University of California Press. Crossref.
+
+
+
+Jandrić P., Knox J. (2022). The postdigital turn: Philosophy, education, research. Policy Futures in Education, 20(7), 780–795. Crossref. Web of Science.
+
+
+
+Jandrić P., Knox J., Besley T., Ryberg T., Suoranta J., Hayes S. (2018). Postdigital science and education. Educational Philosophy and Theory, 50(10), 893–899. Crossref. Web of Science.
+
+
+
+Jurgenson N. (2012). When atoms meet bits: Social media, the mobile web and augmented revolution. Future Internet, 4(1), 83–91. Crossref. Web of Science.
+
+
+
+Kendall T. (2021). From binge-watching to binge-scrolling: TikTok and the rhythms of #LockdownLife. Film Quarterly, 75(1), 41–46. Crossref.
+
+
+
+Kennedy J. (2018). Oversharing is the norm. In Dobson A. S., Robards B., Carah N. (Eds.), Digital intimate publics and social media (pp. 265–280). Palgrave Macmillan. Crossref.
+
+
+
+Kolehmainen M. (2024). Vibrant screens: Remote therapy and counselling through the lens of digital materiality. Health. Advance online publication. Crossref
+
+
+
+Kolehmainen M., Lahti A., Lahad K. (Eds.). (2022). Affective intimacies. Manchester University Press. Crossref.
+
+
+
+Lupton D. (2019). Toward a more-than-human analysis of digital health: Inspirations from feminist new materialism. Qualitative Health Research, 29(14), 1998–2009. Crossref. PubMed. Web of Science.
+
+
+
+McGlotten S. (2013). Virtual intimacies: Media, affect, and queer sociality. State University of New York Press. Crossref.
+
+
+
+Mind. (2021). Coronavirus: The consequences for mental health. https://www.mind.org.uk/media/8962/the-consequences-of-coronavirus-for-mental-health-final-report.pdf
+
+
+
+Mörtsell S., Gunnarsson K. (2023). Caring cuts: Unfolding methodological sensibilities in researching postdigital worlds. In Jandrić P., MacKenzie A., Knox J. (Eds.), Postdigital research: Genealogies, challenges, and future perspectives (pp. 173–190). Springer. Crossref.
+
+
+
+Murray S. (2020). Postdigital cultural studies. International Journal of Cultural Studies, 23(4), 441–450. Crossref. Web of Science.
+
+
+
+Oswin N., Olund E. (2010). Governing intimacy. Environment and Planning D: Society and Space, 28(1), 60–67. Crossref. Web of Science.
+
+
+
+Paasonen S., Jaaksi V., Koivunen A., Nikunen K., Talvitie-Lamberg K., Vänskä A. (2023). Intimate infrastructures we depend upon: Living with data. Media Theory, 7(2), 285–308. Crossref.
+
+
+
+Parisi L. (2013). Contagious architecture: Computation, aesthetics, and space. MIT Press. Crossref.
+
+
+
+Pienaar K., Flore J., Power J., Murphy D. (2021). Making publics in a pandemic: Posthuman relationalities, “viral” intimacies and COVID-19. Health Sociology Review, 30(3), 244–259. Crossref. PubMed. Web of Science.
+
+
+
+Pink S., Horst H. A., Postill J., Hjorth L., Lewis T., Tacchi J. (Eds.). (2016). Digital ethnography: Principles and practice. Sage.
+
+
+
+Povinelli E. A. (2006). The empire of love: Toward a theory of intimacy, genealogy, and carnality. Duke University Press. Crossref.
+
+
+
+Puig de la Bellacasa M. (2017). Matters of care: Speculative ethics in more-than-human worlds. University of Minnesota Press.
+
+
+
+Ringrose J., Harvey L. (2017). Digital mediation, connectivity, and networked teens. In Silk M., Andrews D., Thorpe H. (Eds.), Routledge handbook of physical cultural studies (pp. 451–464). Routledge. Crossref.
+
+
+
+Ringrose J., Milne B., Horeck T., Mendes K. (2024). Postdigital bodies: Young people’s experiences of algorithmic, tech-facilitated body shaming and image-based sexual abuse during and after the COVID-19 pandemic in England. Youth, 4(3), 1058–1075. Crossref.
+
+
+
+Ringrose J., Regehr K., Milne B. (2021). Understanding and combatting youth experiences of image-based sexual harassment and abuse. UCL Institute of Education.
+
+
+
+Ringrose J., Renold E. (2010). Normative cruelties and gender deviants: The performative effects of bully discourses for girls and boys in school. British Educational Research Journal, 36(4), 573–596. Crossref. Web of Science.
+
+
+
+Schellewald A. (2023). Understanding the popularity and affordances of TikTok through user experiences. Media, Culture & Society, 45(8), 1568–1582. Crossref. Web of Science.
+
+
+
+Setty E., Ringrose J., Hunt J. (2024). From “harmful sexual behaviour” to ‘harmful sexual culture’: Addressing school-related sexual and gender-based violence among young people in England through “post-digital sexual citizenship.” Gender and Education, 36(5), 434–452. Crossref. Web of Science.
+
+
+
+Sinclair C., Hayes S. (2019). Between the post and the com-post: Examining the postdigital “work” of a prefix. Postdigital Science and Education, 1, 119–131. Crossref.
+
+
+
+Stark L. (2020). The emotive politics of digital mood tracking. New Media & Society, 22(11), 2039–2057. Crossref. Web of Science.
+
+
+
+SumOfUs/Ekō. (2022). Metaverse: Another cesspool of toxic content. https://www.eko.org/images/Metaverse_report_May_2022.pdf
+
+
+
+Taffel S. (2016). Perspectives on the postdigital: Beyond rhetorics of progress and novelty. Convergence, 22(3), 324–338. Crossref. Web of Science.
+
+
+
+Wilson A. (2016). The infrastructure of intimacy. Signs, 41(2), 247–280. Crossref. Web of Science.
+
+
+
+Winch A. (2013). Girlfriends and postfeminist sisterhood. Palgrave Macmillan. Crossref.
+
+
+
+Zhao H., Wagner C. (2023). How TikTok leads users to flow experience: Investigating the effects of technology affordances with user experience level and video length as moderators. Internet Research, 33(2), 820–849. Crossref. Web of Science.
+
+
+
+
+
+Author Biographies
+
+
+Adrienne Evans is Professor in Gender and Culture in the Centre for Postdigital Cultures at Coventry University, UK. Her research focuses on accounts of intimacy, and she is interested in creating new ways of thinking about notions of the good life, well-being, and positivity through digital technology, by seeking to generate more inclusive, equitable, and feminist-inspired ways of being-in-the-world. She is co-author of Technologies of Sexiness (2014), Postfeminism and Health (2018), Postfeminism and Body Image (2022), and Digital Feeling (2023). She co-founded the AHRC network Postdigital Intimacies and the Networked Public-Private with Jessica Ringrose.
+
+Jessica Ringrose is co-Director of the Centre for Sociology of Education and Equity at IOE UCL’s Faculty of Education and Society. Her research explores youth digital cultures and recent projects focus on developing education to prevent tech-facilitated gender-based and sexual violence and online misogyny. In 2020, she was the recipient of The American Educational Research Association Distinguished Contributions to Gender Equity in Education Award. Her latest book, Teens, Social Media and Image Based Abuse is out in early 2025.
+
+
+
+
+
+Sections
+
+
+Abstract
+
+Introduction
+
+More-Than-Human Intimacies
+
+More-Than-Digital Technologies
+
+Postdigital Intimacies in ContextExample 1: Intimate Therapeutics
+
+Example 2: School-Based Technology-Facilitated Sexual Violence
+
+
+
+
+
+Conclusion
+
+Declaration of Conflicting Interests
+
+Funding
+
+ORCID iDs
+
+Notes
+
+References
+
+Author Biographies
+
+
+
+
+
+Guide
+
+
+List of Sections
+
+Frontmatter
+
+Abstract
+
+Keywords
+
+Bodymatter
+
+Backmatter
+
+Notes
+
+References
+
+
+
+
+
